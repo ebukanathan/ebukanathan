@@ -19,10 +19,10 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - **MongoDB**
 - **PostgreSQL**
 
-**## 📂 Projects
+## 📂 Projects
 
 - [Project 1](#) – Short description of your project.
-  - [Project 2](#) – Short description of your project.
+- [Project 2](#) – Short description of your project.
 - [More projects...](#)
 
 ## 📫 Contact
