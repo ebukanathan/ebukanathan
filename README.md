@@ -18,6 +18,7 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - **TypeScript**
 - **MongoDB**
 - **PostgreSQL**
+- **cypress**
 
 ## 📂 Projects
 
