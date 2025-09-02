@@ -24,8 +24,8 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 
 ## 📂 Projects
 
-- https://serviceguyz.netlify.app/ – This is a website of a business that offers moving services, .
-- [Project 2](#) – Short description of your project.
+- https://serviceguyz.netlify.app/
+- https://www.apearlschools.com/
 - [More projects...](#)
 
 ## 📫 Contact
