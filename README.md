@@ -31,9 +31,9 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 
 ## 📫 Contact
 
-- Email: [ebukanathan@gmail.com](mailto:your.email@example.com)
-- LinkedIn: [https://www.linkedin.com/in/ebuka-ezeuchenne/](#)
-- Twitter: [@yourhandle](#)
+- Email: ebukanathan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ebuka-ezeuchenne
+
 
 ---
 
