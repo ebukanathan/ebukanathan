@@ -16,6 +16,7 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - **Tailwind CSS**
 - **HTML**
 - **TypeScript**
+- **Nodejs**
 - **MongoDB**
 - **PostgreSQL**
 - **Cypress**
