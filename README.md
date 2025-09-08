@@ -21,6 +21,9 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - **PostgreSQL**
 - **Cypress**
 - **Figma**
+- **Chakra UI**
+- **Material UI**
+- 
   
 
 ## 📂 Projects
