@@ -32,6 +32,7 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - https://www.apearlschools.com/
 - https://thefootwearacademy.ng/
 - https://ebn-ecommerceproductpage.netlify.app/
+- https://ebn-joblisting.netlify.app/
 
 ## 📫 Contact
 
