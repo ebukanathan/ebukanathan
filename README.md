@@ -23,6 +23,8 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - **Figma**
 - **Chakra UI**
 - **Material UI**
+- **Redux**
+- 
 - 
   
 
