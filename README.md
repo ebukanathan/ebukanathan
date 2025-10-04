@@ -24,9 +24,7 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - **Chakra UI**
 - **Material UI**
 - **Redux**
-- **polymer**
-- **langchain**
-- **Golang**
+-
 - 
 - 
 - 
