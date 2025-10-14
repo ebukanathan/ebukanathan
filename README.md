@@ -19,11 +19,13 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - **Nodejs**
 - **MongoDB**
 - **PostgreSQL**
+- **mySql**
 - **Cypress**
 - **Figma**
 - **Chakra UI**
 - **Material UI**
 - **Redux**
+- 
 -
 - 
 - 
