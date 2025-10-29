@@ -13,6 +13,7 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 
 - **React**
 - **Next.js**
+- **Astro**
 - **Tailwind CSS**
 - **HTML**
 - **TypeScript**
