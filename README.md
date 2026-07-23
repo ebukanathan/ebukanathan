@@ -9,23 +9,13 @@ I'm a passionate **Frontend Developer** skilled in building modern, performant, 
 - 🧠 Enjoy learning about scalable backend solutions
 - 👯 Looking to collaborate on open source and real-world projects
 
-## 🛠️ Skills
+  ## What I work with
 
-- **React**
-- **Next.js**
-- **Astro**
-- **Tailwind CSS**
-- **HTML**
-- **TypeScript**
-- **Nodejs**
-- **MongoDB**
-- **PostgreSQL**
-- **mySql**
-- **Cypress**
-- **Figma**
-- **Chakra UI**
-- **Material UI**
-- **Redux**
+- Frontend — React, Next.js, Astro, TypeScript, Tailwind CSS, Chakra UI, Material UI, Redux 
+- Backend — Node.js, MongoDB, PostgreSQL, MySQL Tooling — Cypress, Figma
+
+
+
   
 
 ## 📂 Projects
